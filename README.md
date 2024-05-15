@@ -1,7 +1,7 @@
 
 ## Do que se trata?
 
-São os passos iniciais para entender como integrar de forma afetiva a inteligência artificial do Gemini ao projeto desenvolvido durante a hackathon 'Indie-Trippers'.
+São os passos iniciais para entender como integrar de forma efetiva a inteligência artificial do Gemini ao projeto desenvolvido durante a hackathon 'Indie-Trippers'.
 
 ## Como rodar o projeto
 
